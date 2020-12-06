@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1565628076 source:c:\users\ezequ\onedrive\documentos\projetos codeblocks\grafico\src\grafico.cpp
+	<stdio.h>
+	"Grafico.h"
+	<graphics.h>
+
+1565614278 c:\users\ezequ\onedrive\documentos\projetos codeblocks\grafico\include\grafico.h
+
