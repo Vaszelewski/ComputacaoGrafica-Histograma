@@ -1,4 +1,4 @@
-# ComputacaoGrafica-Histograma
+# ComputacaoGrafica_Histograma
 Exercício prático proposto na disciplina de Computação Gráfica - Uniritter - 2019/2
 
 IDE: DEV C++
